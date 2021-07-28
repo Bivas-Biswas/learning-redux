@@ -1,10 +1,10 @@
 /.idea
-
-/learning-react-redux/.idea
-/learning-react-redux/node_modules
+/.vscode
+/React-redux/.idea
+/React-redux/node_modules
 
 /VanillaJs/.idea
 /VanillaJs/node_modules
-/learning-react-redux/.idea/
+/React-redux/.idea/
 /VanillaJS/node_modules/
-/learning-react-redux/node_modules/
+/React-redux/node_modules/
